@@ -1,6 +1,8 @@
 # Auriva Finance
 
-#### 📹 Video Demo: [Watch on YouTube](https://youtu.be/faonqrRJrXs)
+#### 📹 Video Demo: [Watch on YouTube](https://youtu.be/faonqrRJrXsA)
+
+> ⚠️ **Warning:** As of now, the implementation may not work correctly due to recent changes in the Yahoo Finance API. Quoting and graph features that rely on live data may fail or return incomplete information. A future fix or API replacement is needed.
 
 #### 📄 Description:
 **Auriva Finance** is a paper trading platform built as the final project for Harvard's [CS50](https://cs50.harvard.edu/) course. This repository is a **copy of the original submission**, with no prior commits, and serves as a personal archive and showcase.
@@ -46,6 +48,8 @@ A key future feature would involve storing each user’s daily net worth in the 
 This project deepened my interest in **cybersecurity**. From validating user input to authenticating transactions, I implemented strict back-end and front-end protections to reduce vulnerabilities — all while maintaining a clean and responsive user interface.
 
 ---
+
+##
 
 ## 🛠️ Project Setup
 

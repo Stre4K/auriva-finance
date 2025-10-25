@@ -1,7 +1,5 @@
 # Auriva Finance
 
-#### 📹 Video Demo: [Watch on YouTube](https://youtu.be/faonqrRJrXsA)
-
 > ⚠️ **Warning:** As of now, the implementation may not work correctly due to recent changes in the Yahoo Finance API. Quoting and graph features that rely on live data may fail or return incomplete information. A future fix or API replacement is needed.
 
 #### 📄 Description:
